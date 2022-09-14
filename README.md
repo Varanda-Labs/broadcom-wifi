@@ -1,4 +1,4 @@
-# Debian repackong for broadcom-sta-dkms
+# Debian broadcom-sta-dkms repacking
 This is just a patch for broadcom-sta-dkms_6.30.223.271-17 to work with kernel 5.18<br>
 Thanks for [this](https://github.com/archlinux/svntogit-community/blob/packages/broadcom-wl-dkms/trunk/013-linux518.patch) patch.<br>
 
