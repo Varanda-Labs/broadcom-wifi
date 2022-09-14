@@ -3,7 +3,7 @@ This is just a patch for broadcom-sta-dkms_6.30.223.271-17 to work with kernel 5
 Thanks for [this](https://github.com/archlinux/svntogit-community/blob/packages/broadcom-wl-dkms/trunk/013-linux518.patch) patch.<br>
 
 ## In a hurry
-Just gram the package from [this](mv_package/broadcom-sta-dkms-marcelo_6.30.223.271-17_all.deb) link<br>
+Just grab the package from [this](mv_package/broadcom-sta-dkms-marcelo_6.30.223.271-17_all.deb) link<br>
 and:
 ```
 sudo apt remove broadcom-sta-dkms
